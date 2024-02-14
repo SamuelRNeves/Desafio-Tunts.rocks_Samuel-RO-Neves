@@ -1,3 +1,18 @@
 npm install
 npm start
 node Desafio.js
+
+Usando node Desafio.js:
+
+Certifique-se de estar no diretório onde o arquivo Desafio.js está localizado.
+Abra o terminal ou prompt de comando no seu sistema operacional.
+Digite o comando node Desafio.js e pressione Enter.
+Isso iniciará a execução do arquivo Desafio.js, e sua aplicação será executada de acordo com o código contido neste arquivo.
+Usando npm start:
+
+Se você configurou um script start no arquivo package.json do seu projeto, apontando para o arquivo Desafio.js.
+Certifique-se de estar no diretório raiz do seu projeto Node.js, onde o arquivo package.json está localizado.
+Abra o terminal ou prompt de comando no seu sistema operacional.
+Digite o comando npm start e pressione Enter.
+Isso executará o script start especificado no package.json, que por sua vez executará o arquivo Desafio.js.
+Seu aplicativo será iniciado conforme configurado no script start.
