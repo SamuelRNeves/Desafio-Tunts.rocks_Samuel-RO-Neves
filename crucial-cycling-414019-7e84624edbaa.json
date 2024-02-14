@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "crucial-cycling-414019",
+  "private_key_id": "7e84624edbaa79239d41e7703842a49b7ef3d316",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCQJYUtaQ/9VQoL\nTscPIYho3lKd6eLcnT5kSyAEYun9W/NWTaOROGk0QTUW0fpJnQVdWCtb/dpBj8Ag\nz/hCL6uyLv10dqryQXb6EgYhINnpU6Pbrruj5w5Lzs0awPd+sIl0Uzijy9GOTUa8\nDKyKVhGrw4JFACtj6pL+s2M+8zYMyCXHf2TDTX5/eQpddyHj1bWkcgIYMuh512IU\nHbVKiOzLlskQ8R3mivL1XA5Sh80GknK2oSyWOgibGN0C8qnzQbppec7toGnqa/wz\nMGXk5HmbRZvi80J+OCNWJ44z2husKK5PutrAv33FDi4QSes7ZqHU9sd4zlVOip9Z\nNohZLbYBAgMBAAECggEAAjuyk9YxhePlY0YggLQs9YL2619jlmC78LiBPHrT0+Bd\ner7P2UDIeyNve8pbrabzHakaCDN8nXtpUe4m6HpDQgrG/nZAMRShOpVA5w59PHIr\n8wwCot1s3pvLmFiDp8DQawRHDQfsAophSCniGm/kQjGl46/G/FChX7TOcCaQdc42\nDemuXZx1bpWmaIg4ZXfyV4RIDhG4USrSnRajQbMkl61xvmcijz8rbmVRhnj8dlN4\nLgXuohl+a5p7OCwCTejrHwm7ipOLcAo4OKYIM1GbQlvapMR3KXNYcR+46wCnhY8L\n3jGwBglrJHo0iKlIM5LoKLU2hPqlnpUGxdn7mpuTgQKBgQDFl6JiNz66Oqo9CqMP\nA/UU7sViFU2cryjemQYMEpztmC7N4hgJWv0pOfWvHM49hDa0WxCMHWSWAhtfVpQl\ndKMSAgcmCJi2WCZnYAKDIQrwzu0ISztWUQtfShSpaUEeV64PG+x28jJDKg8di93m\no1e8lrak/TJVFZC0qWZYKScwSQKBgQC6wX7PSkuFI+z50j/rycVx8rOf7EKoBGKX\nrIgGl0u77SK0ysgHVoGDv5TI0pde780+kdRekrAAMDYY/cA5tyAprP1a/c0z7aF1\n2H6Fzqf4axPpVF8FaTkQPcltmfWkhm0mtKy3lbXG/HwJPTLRcnaBfsl9ifBmHGgC\ngI7FTU/H+QKBgHVBXbihBhVneNzOciMX+xlX9EQXVj5T55HpByCk7wFD3QqKUC9F\nEpSjc3teQblZu0jd/XzYeHdYervh2fo8NAUctPdKBK24s9mGrRb5xc9PTHQuiODZ\nKUF76bT65AzIhV8r9/BCG7elvuCOvrj+V7NvUKWqJ3M8X+oF2NkaWsoZAoGBALSV\nY9R3Z70PNxd+aVbLXUPIxk4Oe4nR66/0IfgVliLas2OUbYVC7auCthDWKY6gXJtz\nEaJ9Pvh/pd/WhmiIne4Om1G/9wuObUDxna4vXRaGG9PURKmLzKTaygpUBEYZwjPa\nIuTGO+Z0wE+CwL/saZDgE19z4WQrdZttyiAYmNupAoGATcHS3cbi0Y9GLx6KLmYM\niUzXoxJS97fwaoYlnS2o7RswQvkNDjNehCSZ9ShHuXDrIxf8lpSZJofozisVrz0R\nM6rnYZT4gU6ULmwBKoPOWROafQ9iqKvWpV90TUu6PLlTW+glFe0/aZeLU0zkOu2T\nnomMqfLVfFsq+VKBPm77JCU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "samuelneves@crucial-cycling-414019.iam.gserviceaccount.com",
+  "client_id": "100304946783436381439",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/samuelneves%40crucial-cycling-414019.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
